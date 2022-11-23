@@ -1,3 +1,3 @@
-# Hippoptype <- nazwa profilu na githubie
+# stkrolikiewicz <- nazwa profilu na githubie
 
-- [deploy](https://cls-1-hippopotype.vercel.app/)
+-   [deploy]()
